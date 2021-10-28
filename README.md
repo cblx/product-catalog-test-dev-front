@@ -33,6 +33,8 @@ O *backend* está disponibilizado no endereço [https://descontrolada-backend.cb
 A empresa, com a finalidade de controlar os seus estoques **por loja**, decidiu utilizar o endereço de e-mail delas para distinguí-las.
 Ou seja, você precisará escolher um e-mail arbitrário (exemplo: `um@emailqualquer.com`) no parâmetro `emailDaLoja` para realizar as chamadas dos métodos da API.
 
+Para os campos configurados como `TipoDoProduto`, utilizar o valor numérico `1` para orgânicos e `2` para não orgânicos.
+
 **Observação**: Os dados registrados são transientes, sendo eliminados de tempos em tempos.
 
 ## O que será avaliado no teste?
