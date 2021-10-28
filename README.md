@@ -45,7 +45,7 @@ Serão avaliados os seguintes aspectos:
 - Conhecimento básico sobre REST API e métodos HTTP;
 - Organização do código;
 - Proeficiência nas tecnologias de frontend (Vue ou Angular);
-- Conhecimento de TypeScript;
+- Conhecimento em TypeScript;
 
 ## Informações Adicionais 
 
