@@ -25,15 +25,25 @@ O sistema também deve possuir um menu que permita a navegação entre as duas p
 
 O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/), ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
 
-O *backend* está disponibilizado via...
+O *backend* está disponibilizado no endereço [https://descontrolada-backend.cblx.com.br/swagger](https://descontrolada-backend.cblx.com.br/swagger). Ele está estruturado de forma que possui as seguintes funcionalidades:
+
+- Listagem paginada dos produtos;
+- Adição, atualização, remoção e visualização de um produto;
+
+A empresa, com a finalidade de controlar os seus estoques **por loja**, decidiu utilizar o endereço de e-mail delas para distinguí-las.
+Ou seja, você precisará escolher um e-mail arbitrário (exemplo: `um@emailqualquer.com`) no parâmetro `emailDaLoja` para realizar as chamadas dos métodos da API.
+
+**Observação**: Os dados registrados são transientes e temporários, sendo eliminados de tempos em tempos.
 
 ## O que será avaliado no teste?
 
 Serão avaliados os seguintes aspectos:
+
 - Capacidade de abstração e desdobramento da identidade visual pré-existente;
+- Conhecimento básico sobre REST API e métodos HTTP;
 - Organização do código;
 - Proeficiência nas tecnologias de frontend (Vue ou Angular);
-- Conhecimento de TypeScript.
+- Conhecimento de TypeScript;
 
 ## Informações Adicionais 
 
