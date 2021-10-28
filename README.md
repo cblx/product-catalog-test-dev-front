@@ -10,7 +10,7 @@ Sendo assim, a empresa deseja implementar um sistema para ter mais confiabilidad
 
 Criar e desenvolver a interface, e implementar o front de um sistema web com duas páginas, a saber:
 
-1. Página para o cadastro dos produtos, que deve apresentar os campos: **nome, preço de venda, descrição, quantidade, tipo\* e data de cadastro**.
+1. Página para o cadastro dos produtos, que deve apresentar os campos: **nome, preço de venda, descrição, quantidade, tipo\* e data de validade**.
     - *A varejista comercializa dois tipos de produto:
         - Orgânico, e;
         - Não orgânico.
