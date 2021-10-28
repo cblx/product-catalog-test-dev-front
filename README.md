@@ -23,7 +23,7 @@ O sistema também deve possuir um menu que permita a navegação entre as duas p
 
 ## Tecnologia a ser utilizada
 
-O *frontend* pode ser elaborado com [Vue.js](https://vuejs.org/), ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
+O *frontend* pode ser desenvolvido em [Vue.js](https://vuejs.org/) ou [Angular](https://angular.io/), priorizando sempre as versões mais recentes e que faça uso do [TypeScript](https://www.typescriptlang.org/).
 
 O *backend* está disponibilizado no endereço [https://descontrolada-backend.cblx.com.br/swagger](https://descontrolada-backend.cblx.com.br/swagger). Ele está estruturado de modo que possui as seguintes funcionalidades:
 
